@@ -113,3 +113,9 @@ No tengo espíritu de cobardía sino de poder, amor y dominio propio.
 10 y asimismo de Jacobo y Juan, hijos de Zebedeo, que eran compañeros de Simón. Pero Jesús dijo a Simón: No temas; desde ahora serás **pescador de hombres**. 
 11 Y cuando trajeron a tierra las barcas, dejándolo todo, le siguieron.
 
+## Referencias
+
+* Cenfol - Programa de crecimiento 
+* Presentación disponible en: https://bit.ly/seguridad-cristiana
+
+![](images/qr.png)
