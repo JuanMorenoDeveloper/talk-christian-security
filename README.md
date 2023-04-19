@@ -8,14 +8,14 @@ date: 19 de abril de 2023
 "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo."
 
 ## Yo al mando
-![](images/yo.png)
+![](images/ego_al_mando.png)
 
 [//]: # (E = Ego, el yo en el trono de su vida.)
 [//]: # (o = Intereses personales bajo el control suyo, en desorden y confusión.)
 [//]: # († = Cristo, fuera de su vida.)
 
 ## Jesús al mando
-![](images/Jesús.png)
+![](images/Jesús_al_mando.png)
 
 [//]: # († = Jesucristo en el trono de su vida.)
 [//]: # (E = Su ego destronado.)
